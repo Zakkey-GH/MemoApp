@@ -6,7 +6,7 @@
 
 
 ## ③アプリのデプロイURL
-デプロイしている場合はURLを記入（任意）
+https://zakkey-gh.github.io/MemoApp/
 
 ## ④アプリのログイン用IDまたはPassword（ある場合）
 - ID: なし
